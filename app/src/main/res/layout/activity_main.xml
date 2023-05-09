@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    tools:context=".MainActivity">
+
+<TextView
+
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="INGRESAR PREGUNTA"
+    android:textSize="20sp" />
+
+    <EditText
+        android:layout_marginTop="40dp"
+        android:id="@+id/edtx_pregtunta"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="@string/preguntas"
+        android:layout_gravity="center"
+        android:textSize="20sp" />
+    <EditText
+        android:id="@+id/edtx_respuesta1"
+        android:layout_marginTop="20dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="@string/respuesta_1"
+        android:layout_gravity="center"
+        android:textSize="20sp" />
+    <EditText
+        android:id="@+id/edtx_respuesta2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="@string/respuesta_2"
+        android:layout_gravity="center"
+        android:textSize="20sp" />
+    <EditText
+        android:id="@+id/edtx_respuesta3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="@string/respuesta_3"
+        android:layout_gravity="center"
+        android:textSize="20sp" />
+    <EditText
+        android:id="@+id/edtx_respuesta4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="@string/respuesta_4"
+        android:layout_gravity="center"
+        android:textSize="20sp" />
+    <Button
+        android:id="@+id/btn_insertar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/insertar"
+        android:layout_marginTop="50dp"
+        />
+    <Button
+        android:id="@+id/btn_listar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/listar"
+       android:layout_marginTop="20dp"
+        />
+
+
+
+
+
+
+
+
+</LinearLayout>

@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">EjemploConsultas</string>
+    <string name="pregunta">Pregunta</string>
+    <string name="respuesta_2">Respuesta 2</string>
+    <string name="respuesta_3">Respuesta 3</string>
+    <string name="respuesta_4">Respuesta 4</string>
+    <string name="preguntas">Preguntas</string>
+    <string name="listar">LISTAR</string>
+    <string name="respuesta_1">respuesta 1</string>
+    <string name="insertar">INSERTAR</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellido">Apellido</string>
+    <string name="email">Email</string>
+    <string name="numero_indentificacion">Numero Indentificacion</string>
+    <string name="password">Password</string>
+    <string name="confirmar_contrase_a">Confirmar contraseña</string>
+    <string name="contrase_a">Contraseña</string>
+    <string name="usuario">Usuario</string>
+    <string name="login">LOGIN</string>
+    <string name="registrarse_ahora">Registrarse ahora</string>
+    <string name="no_tienes_cuenta">¿No tienes cuenta?</string>
+    <string name="inicio_sesion">INICIO SESION</string>
+    <string name="login_here">LOGIN HERE!</string>
+    <string name="registro_usuario">REGISTRO USUARIO</string>
+    <string name="ya_tienes_cuenta">¿Ya tienes Cuenta?</string>
+    <string name="inicia_sesión_ahora">Inicia sesion ahora</string>
+
+
+    <string-array name="tipo">
+
+        <item> completar</item>
+        <item> seleccion</item>
+
+    </string-array>
+
+    <string-array name="nivel">
+
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+
+    </string-array>
+</resources>

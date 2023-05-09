@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "484693338810",
+    "project_id": "ejemploconsulta-22a37",
+    "storage_bucket": "ejemploconsulta-22a37.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:484693338810:android:e17b8b2c4e471fcde8f083",
+        "android_client_info": {
+          "package_name": "com.rosa.ejemploconsultas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "484693338810-kh7b9a28km6v21e77gjhsq8gj1isteq8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKe-soRfHscs_0_sQg7rt_DYhGQXbfJWA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "484693338810-kh7b9a28km6v21e77gjhsq8gj1isteq8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
