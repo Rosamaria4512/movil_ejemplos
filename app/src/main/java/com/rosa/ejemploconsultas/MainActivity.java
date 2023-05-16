@@ -73,8 +73,11 @@ public class MainActivity extends AppCompatActivity {
         database = FirebaseDatabase.getInstance(); //conexion
         myRef = database.getReference(); // referencia
 
+
+
         Preguntas preguntas = new Preguntas();
         preguntas.setId(UUID.randomUUID().toString());
+
         preguntas.setPregunta(edtx_pregtunta.getText().toString());
         preguntas.setRespuesta1(edtx_respuesta1.getText().toString());
         preguntas.setRespuesta2(edtx_respuesta2.getText().toString());
@@ -85,6 +88,7 @@ public class MainActivity extends AppCompatActivity {
 
 
     }
+
 
 
 

@@ -8,6 +8,7 @@ public class Preguntas {
     String respuesta3;
     String respuesta4;
 
+
     public Preguntas() {
     }
 
